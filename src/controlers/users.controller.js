@@ -1,29 +1,29 @@
 let users = [
   {
     id:"1",
-    name: "juan camilo sarrazola",
-    email: "jcsarrazola@example.com",
+    name: "facundo cruz",
+    email: "cruz@example.com",
     role: "admin",
     createdAt: "2025-09-12T12:00:00Z"
   },
     {
     id:"2",
-    name: "vanesa",
-    email: "vanesa@example.com",
+    name: "Juan",
+    email: "juang@example.com",
     role: "estuden",
     createdAt: "2025-09-12T12:00:00Z"
   },
     {
     id:"3",
-    name: "jeferson estiven",
-    email: "jeferson@example.com",
+    name: "carloa",
+    email: "carlos@example.com",
     role: "admin",
     createdAt: "2025-09-12T12:00:00Z"
   },
     {
     id:"4",
-    name: "carlos",
-    email: "carlos@example.com",
+    name: "daniel",
+    email: "daniel@example.com",
     role: "gerente",
     createdAt: "2025-09-12T12:00:00Z"
   },
